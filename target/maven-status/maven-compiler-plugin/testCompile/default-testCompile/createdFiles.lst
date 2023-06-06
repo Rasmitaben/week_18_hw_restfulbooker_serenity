@@ -1,0 +1,5 @@
+com\restful\booker\restfulinfo\BookingDataDrivenTest.class
+com\restful\booker\restfulinfo\TagTest.class
+com\restful\booker\testbase\TestBase.class
+com\restful\booker\restfulinfo\BookingCrudTest.class
+com\restful\booker\AppTest.class

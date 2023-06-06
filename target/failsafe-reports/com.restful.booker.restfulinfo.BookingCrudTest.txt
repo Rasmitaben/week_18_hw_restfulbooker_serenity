@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.restful.booker.restfulinfo.BookingCrudTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.155 sec - in com.restful.booker.restfulinfo.BookingCrudTest
